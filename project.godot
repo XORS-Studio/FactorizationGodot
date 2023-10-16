@@ -11,12 +11,17 @@ config_version=5
 [application]
 
 config/name="Factorization Godot"
-config/features=PackedStringArray("4.1", "Mobile")
+run/main_scene="res://Scenes/GameScene.tscn"
+config/features=PackedStringArray("4.1", "C#", "Mobile")
 config/icon="res://icon.svg"
 
 [dotnet]
 
 project/assembly_name="Factorization Godot"
+
+[input_devices]
+
+pointing/emulate_touch_from_mouse=true
 
 [rendering]
 

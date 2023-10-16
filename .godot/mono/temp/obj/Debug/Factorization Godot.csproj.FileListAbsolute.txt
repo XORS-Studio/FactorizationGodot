@@ -1,0 +1,17 @@
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/bin/Debug/Factorization Godot.deps.json
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/bin/Debug/Factorization Godot.runtimeconfig.json
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/bin/Debug/Factorization Godot.dll
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/bin/Debug/Factorization Godot.pdb
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.csproj.AssemblyReference.cache
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.GeneratedMSBuildEditorConfig.editorconfig
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.AssemblyInfoInputs.cache
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.AssemblyInfo.cs
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.csproj.CoreCompileInputs.cache
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.csproj.CopyComplete
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.dll
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/refint/Factorization Godot.dll
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.pdb
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/Factorization Godot.genruntimeconfig.cache
+/home/x_o_r_s/Documents/Godot/FactorizationGodot/.godot/mono/temp/obj/Debug/ref/Factorization Godot.dll

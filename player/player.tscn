@@ -1,0 +1,27 @@
+[gd_scene load_steps=4 format=2]
+
+[ext_resource path="res://common/models/Engineer v1/engineer.glb" type="PackedScene" id=1]
+[ext_resource path="res://player/player.gd" type="Script" id=2]
+
+[sub_resource type="CylinderShape" id=4]
+height = 1.15623
+radius = 0.239652
+
+[node name="Player" type="KinematicBody"]
+collision_layer = 2
+script = ExtResource( 2 )
+modelPath = NodePath("engineer")
+
+[node name="CollisionShape" type="CollisionShape" parent="."]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.582586, 0 )
+shape = SubResource( 4 )
+
+[node name="engineer" parent="." instance=ExtResource( 1 )]
+transform = Transform( 0.3, 0, 0, 0, 0.3, 0, 0, 0, 0.3, 0, 0, 0 )
+
+[node name="AnimationPlayer" parent="engineer" index="1"]
+autoplay = "idle-loop"
+
+[node name="NavigationAgent" type="NavigationAgent" parent="."]
+
+[editable path="engineer"]

@@ -11,7 +11,7 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.819013, -11.2631 )
 collision_layer = 4
 script = ExtResource( 1 )
 speed = 3.0
-offset = Vector3( 0, 0, -0.2 )
+offset = Vector3( 0, 0, -0.5 )
 targetPath = NodePath("../player")
 
 [node name="NavigationAgent" type="NavigationAgent" parent="."]

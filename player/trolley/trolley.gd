@@ -29,7 +29,8 @@ func _physics_process(delta):
 	
 	velocity = move_and_slide(velocity)
 	
-	turn(next_location)
+	if next_location.x != transform.origin.x and next_location.z != transform.origin.z:
+		turn(next_location)
 	
 func _update_path():
 	var transformOfTarget = target.get('model').global_transform

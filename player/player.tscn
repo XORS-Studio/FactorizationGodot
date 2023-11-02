@@ -7,7 +7,7 @@
 height = 1.15623
 radius = 0.239652
 
-[node name="Player" type="KinematicBody"]
+[node name="Player" type="KinematicBody" groups=["Player"]]
 collision_layer = 2
 script = ExtResource( 2 )
 modelPath = NodePath("engineer")

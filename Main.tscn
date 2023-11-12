@@ -18,12 +18,12 @@ transform = Transform( -1, 1.90678e-08, -8.5318e-08, -3.05546e-08, 0.838147, 0.5
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
 [node name="Virtual joystick" parent="CanvasLayer" instance=ExtResource( 2 )]
+anchor_top = 0.657
+anchor_right = 1.0
 margin_left = -4.0
-margin_top = -600.0
-margin_right = 1027.0
+margin_top = 4.79999
+margin_right = 0.0
 margin_bottom = 4.0
-joystick_mode = 1
-visibility_mode = 1
 
 [node name="player" parent="." instance=ExtResource( 1 )]
 transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.59481, 0 )
